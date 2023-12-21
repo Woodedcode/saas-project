@@ -23,4 +23,6 @@ const nav = document.getElementById("topNav");
             }
 
             navButton.addEventListener("click",toggleNav);
-            
+
+
+let c ='1'
